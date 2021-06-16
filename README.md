@@ -7,3 +7,4 @@ The classes are as follows
 2. Dogs
 3. Fishes
 4. Flowers
+This project was done on Google colab.
